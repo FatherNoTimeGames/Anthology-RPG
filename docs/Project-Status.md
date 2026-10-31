@@ -6,7 +6,7 @@ Last meaningful update: October 31, 2026.
 
 ## Current focus
 
-**World foundations: discover the setting's fundamental identity through conversation.**
+**World foundations: explore researchable folklore integrated into ordinary human life.**
 
 Initialization records the approved creative brief. No fictional world, protagonist, profession, or first story has been established.
 
@@ -15,6 +15,7 @@ Initialization records the approved creative brief. No fictional world, protagon
 - Inspected the complete existing repository and its two-commit history at `98423359c77ca10052944b3b79033abe196cb2a1`.
 - Preserved the existing project identity and connection-test record.
 - Established the creative vision, complete navigation, working agreement, and continuity/audit tracking.
+- Recorded the user's clarification in [Folklore and ordinary life](Creative-Vision.md#folklore-and-ordinary-life). The initial high-concept examples were not selected.
 
 ## Important approved decisions
 
@@ -27,7 +28,7 @@ Decision status and creative authority are defined in [Documentation Workflow](D
 | Subject | Unresolved decisions |
 | --- | --- |
 | Setting identity | Defining characteristics, emotional texture, and the conditions that distinguish this world. |
-| Supernatural | Its nature, visibility, limits, reliability, and effects on ordinary life. |
+| Supernatural | Which folklore traditions to draw from; which manifestations are common knowledge; regional variations, limits, reliability, and practical relationships. The approved integration with ordinary life is recorded in the vision. |
 | Material life | Geography, environment, resources, livelihoods, technology, and everyday pressures. |
 | History and society | Historical changes, cultures, governments, religions, economies, hierarchies, institutions, and internal disagreements. |
 | Protagonist | Profession, training, biography, identity, circumstances, and the precise boundaries of player authorship. |
@@ -39,13 +40,11 @@ No unresolved contradictions have been identified. No specific idea has been del
 
 ## Next recommended work
 
-Begin with a felt sense of the world, then test it against ordinary life. Promising subjects to explore together:
+Explore a small selection of documented regional folklore traditions and their connections to ordinary livelihoods, homes, families, and local dangers. Compare their narrative usefulness and research accessibility before selecting sources of inspiration.
 
-1. **Identity and emotional texture:** what makes this setting recognizable, and what makes life worth living within its darkness?
-2. **The supernatural in daily life:** what people believe, what they can verify, and what they depend on despite uncertainty.
-3. **Material pressures and social responses:** how livelihood, security, obligation, and unequal access produce institutions and conflicts.
+Test promising material through a grounded human situation. Distinguish recorded folklore from proposed adaptations, and do not assume every traditional belief is factually true within the fictional setting. Specific traditions, creatures, historical influences, and adaptations remain Open.
 
-These are discussion directions, not selected premises or a mandatory sequence. Use a small hypothetical situation to test emerging ideas before formalizing them. Let the protagonist's role emerge later from the foundations.
+Let the profession emerge from the resulting practical needs and social relationships after the world foundations develop. Do not resume the earlier high-concept premises unless the user chooses to revisit them.
 
 ## Audit history
 

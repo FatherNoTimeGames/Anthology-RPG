@@ -2,7 +2,7 @@
 
 [Project index](../README.md) · [Current status and open questions](Project-Status.md)
 
-Status: **Confirmed project direction**, approved in the user's initialization brief on October 31, 2026. Implementation preferences are identified separately below; they are not final technical decisions. No setting lore, protagonist, profession, or story has been established.
+Status: **Confirmed project direction**, approved in the user's initialization brief and subsequent clarification on October 31, 2026. Implementation preferences are identified separately below; they are not final technical decisions. No setting lore, protagonist, profession, or story has been established.
 
 ## Purpose and anthology form
 
@@ -34,6 +34,16 @@ Explore identity and tone; the supernatural in ordinary life; geography, environ
 Favor causal coherence: institutions, customs, and historical developments need understandable origins and consequences. Give cultures meaningful internal diversity. Examine how ordinary people experience political, economic, and supernatural conditions.
 
 Use hypothetical situations and short stories to test ideas. Connect subjects rather than collecting isolated lore. Build enough depth to support many narratives beyond the first playable story, while avoiding encyclopedic detail without creative value.
+
+## Folklore and ordinary life
+
+Confirmed creative preference, clarified October 31, 2026: tell human stories in a world where folklore is real and many of its manifestations are widely known to exist. People live alongside the supernatural; it should be integrated into ordinary life rather than predominantly concealed in a separate world.
+
+Use documented, readily researchable folklore and legend as a foundation. Prefer material less extensively used in other media where practical, without claiming rarity merely because a tradition is unfamiliar. No particular real-world tradition, creature, or adaptation has been selected.
+
+The user found the initial sleeping-protectors, inherited-peace, and captured-lights examples too high concept. Avoid making an elaborate invented supernatural premise the prerequisite for understanding the setting. The earlier dependence, inheritance, and change themes remain possible story themes rather than selected foundations.
+
+The user references *The Witcher* for human stories and the practical need for expertise in a world shared with folkloric beings; *Supernatural* is another reference, but its greater separation of supernatural and everyday life is less aligned with the intended setting. The original-profession requirement below remains in force.
 
 ## Protagonist and profession
 
