@@ -10,6 +10,15 @@ Last meaningful update: October 31, 2026.
 
 Initialization records the approved creative brief. No fictional world, protagonist, profession, or first story has been established.
 
+### Active exploration — Open
+
+- American folklore is a leading source candidate; no region or specific tale has been selected.
+- Earlier setting alternatives were a nineteenth-century American-inspired world, a medieval frontier, and a blend. The user is now exploring an early-to-mid colonial period, partly to reduce reliance on firearms. The exact date, location, and relationship to real history remain unresolved.
+- The user proposes a supernatural mercenary band/company with long historical roots in England. Training or induction might have supernatural effects, potentially including a recognizable appearance. Its origins, practices, authority, reputation, and player role remain Open.
+- Do not assume English origins produce general hostility. The company could receive different responses according to local affiliations, its conduct, and its supernatural practices.
+- Historical research constraint: English colonial status and religious/political divisions need to be distinguished. See the [1629 Massachusetts charter](https://avalon.law.yale.edu/17th_century/mass03.asp) and [Colonial Williamsburg's study of Anglican Virginia](https://research.colonialwilliamsburg.org/DigitalLibrary/view/index.cfm?doc=ResearchReports%5CRR0006.xml).
+- Firearms were already important at early Jamestown; an earlier period changes their operation without automatically making them marginal. See [NPS weapons and armour history](https://www.nps.gov/jame/learn/historyculture/history-of-armour-and-weapons-relevant-to-jamestown.htm).
+
 ## Recently completed
 
 - Inspected the complete existing repository and its two-commit history at `98423359c77ca10052944b3b79033abe196cb2a1`.
@@ -40,7 +49,7 @@ No unresolved contradictions have been identified. No specific idea has been del
 
 ## Next recommended work
 
-Explore a small selection of documented regional folklore traditions and their connections to ordinary livelihoods, homes, families, and local dangers. Compare their narrative usefulness and research accessibility before selecting sources of inspiration.
+First compare colonial-era windows and regional societies against the desired balance of firearms, other weapons, everyday folklore, and the company's possible English history. Use historical findings to test proposals rather than silently establishing a date or company canon. Then explore regional folklore alongside ordinary livelihoods, homes, families, and local dangers.
 
 Test promising material through a grounded human situation. Distinguish recorded folklore from proposed adaptations, and do not assume every traditional belief is factually true within the fictional setting. Specific traditions, creatures, historical influences, and adaptations remain Open.
 
