@@ -2,13 +2,13 @@
 
 [Project index](../README.md) · [Creative vision](Creative-Vision.md) · [Working agreement](Documentation-Workflow.md)
 
-Last meaningful update: October 31, 2026.
+Last meaningful update: November 1, 2026.
 
 ## Current focus
 
-**Active subject: connect separate assignments through time while exploring the colonial setting and a possible personal throughline.**
+**Active subject: migration, professional acquaintance, and the relationship between an established home order and its newer colonial company.**
 
-Initialization records the approved creative brief. No fictional world, protagonist, profession, or first story has been established.
+The approved creative brief remains the foundation. Initial character-relationship direction is now recorded below; exact setting, full biographies, institutional details, and the first story remain unresolved.
 
 ### Active exploration — Open
 
@@ -16,9 +16,7 @@ Initialization records the approved creative brief. No fictional world, protagon
 - Earlier setting alternatives were a nineteenth-century American-inspired world, a medieval frontier, and a blend. The user is now exploring an early-to-mid colonial period, partly to reduce reliance on firearms. The exact date, location, and relationship to real history remain unresolved.
 - The user favors a mix of established communities and newer settlements. Proposed anthology progression: one story, possibly the first, takes place in a substantial port town with a role comparable to Boston; successive stories move progressively inland into less settled country. No literal Boston setting, first story, fixed route, or story count has been approved. The confirmed relationship between assignments is recorded below.
 - The user currently favors a linear assignment progression over the earlier idea of freely choosing assignments; exact sequencing remains unresolved. This remains Open rather than a finalized sequencing system. Their example of searching for the company's missing first colonial member while taking local jobs to fund or supply the search was explicitly tentative and not especially appealing to them; do not adopt it as the central plot.
-- The user proposes a supernatural mercenary band/company with long historical roots in England. Training or induction might have supernatural effects, potentially including a recognizable appearance. Its origins, practices, authority, reputation, and player role remain Open.
-- Do not assume English origins produce general hostility. The company could receive different responses according to local affiliations, its conduct, and its supernatural practices.
-- Historical research constraint: English colonial status and religious/political divisions need to be distinguished. See the [1629 Massachusetts charter](https://avalon.law.yale.edu/17th_century/mass03.asp) and [Colonial Williamsburg's study of Anglican Virginia](https://research.colonialwilliamsburg.org/DigitalLibrary/view/index.cfm?doc=ResearchReports%5CRR0006.xml).
+- Institutional proposals, the central colleagues' relationship, migration research, and contextual reputation are maintained in [Order, Colonial Company, and Central Relationship](Order-and-Colonial-Company.md).
 - Firearms were already important at early Jamestown; an earlier period changes their operation without automatically making them marginal. See [NPS weapons and armour history](https://www.nps.gov/jame/learn/historyculture/history-of-armour-and-weapons-relevant-to-jamestown.htm).
 
 ## Recently completed
@@ -27,6 +25,7 @@ Initialization records the approved creative brief. No fictional world, protagon
 - Preserved the existing project identity and connection-test record.
 - Established the creative vision, complete navigation, working agreement, and continuity/audit tracking.
 - Recorded the user's clarification in [Folklore and ordinary life](Creative-Vision.md#folklore-and-ordinary-life). The initial high-concept examples were not selected.
+- Established a focused page for the central relationship, institutional proposals, and migration references; preserved undecided plot events as Open.
 
 ## Important approved decisions
 
@@ -40,7 +39,7 @@ The stories take place as separate assignments spread over time. The user explic
 
 ### Confirmed personal-throughline preference
 
-The user favors a relationship developing across the assignments as the personal connection between stories, following discussion of a concrete search mission. This approves the creative direction, not a specific relationship or plot. The people involved, their prior history, player influence, and the proposed shared undertaking of establishing a colonial company presence remain Open. Do not assume an inevitable falling-out, betrayal, or resolution.
+The user favors a relationship developing across assignments as the personal connection between stories. The selected starting relationship and independent-working expectation are authoritative in [Confirmed relationship direction](Order-and-Colonial-Company.md#confirmed-relationship-direction). Names, full histories, player influence, and a specific overarching plot remain Open. Do not assume an inevitable falling-out, betrayal, or resolution.
 
 ## Open questions
 
@@ -50,7 +49,7 @@ The user favors a relationship developing across the assignments as the personal
 | Supernatural | Which folklore traditions to draw from; which manifestations are common knowledge; regional variations, limits, reliability, and practical relationships. The approved integration with ordinary life is recorded in the vision. |
 | Material life | Geography, environment, resources, livelihoods, technology, and everyday pressures. |
 | History and society | Historical changes, cultures, governments, religions, economies, hierarchies, institutions, and internal disagreements. |
-| Protagonist | Profession, training, biography, identity, circumstances, and the precise boundaries of player authorship. |
+| Protagonist | Exact profession, training, biography, identity, circumstances, and boundaries of player authorship beyond the selected relationship direction linked above. |
 | Anthology | Story count, length, sequence, transitions, optional work, recurring connections, first story, and the specific relationship and events connecting assignments. See the confirmed structure above. |
 | Gameplay | Combat, progression, dialogue implementation, perspective, and exploration mechanics. |
 | Production | Final engine, visual treatment, and implementation scope; current preferences are linked above. |
@@ -59,7 +58,7 @@ No unresolved contradictions have been identified. No specific idea has been del
 
 ## Next recommended work
 
-Explore how the proposed port-to-interior progression changes community life, access to institutions, and encounters with folklore. Evaluate how linear assignment order could preserve agency within stories and allow consequences to carry forward. Explore the favored relationship throughline, beginning with whether the relationship already exists and why it matters to both people. Preserve local stories' independent importance and leave the identities and plot unresolved. Compare colonial-era windows and regional societies against this settlement range, the desired weapon balance, and the company's possible English history. Use historical findings to test proposals rather than silently establishing a date or company canon. Then explore regional folklore alongside ordinary livelihoods, homes, families, and local dangers.
+Explore how the proposed port-to-interior progression changes community life, access to institutions, and encounters with folklore. Evaluate how linear assignment order could preserve agency within stories and allow consequences to carry forward. Explore how migration shapes the selected professional acquaintance and what each expects from their reunion. Develop the practical relationship between the home order and the colonial company. Preserve local stories' independent importance and leave the identities and plot unresolved. Compare colonial-era windows and regional societies against this settlement range, the desired weapon balance, and the company's possible English history. Use historical findings to test proposals rather than silently establishing a date or company canon. Then explore regional folklore alongside ordinary livelihoods, homes, families, and local dangers.
 
 Test promising material through a grounded human situation. Distinguish recorded folklore from proposed adaptations, and do not assume every traditional belief is factually true within the fictional setting. Specific traditions, creatures, historical influences, and adaptations remain Open.
 
