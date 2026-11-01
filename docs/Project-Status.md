@@ -6,7 +6,7 @@ Last meaningful update: October 31, 2026.
 
 ## Current focus
 
-**World foundations: explore researchable folklore integrated into ordinary human life.**
+**Active subject: connect separate assignments through time while exploring the colonial setting and a possible personal throughline.**
 
 Initialization records the approved creative brief. No fictional world, protagonist, profession, or first story has been established.
 
@@ -14,7 +14,8 @@ Initialization records the approved creative brief. No fictional world, protagon
 
 - American folklore is a leading source candidate; no region or specific tale has been selected.
 - Earlier setting alternatives were a nineteenth-century American-inspired world, a medieval frontier, and a blend. The user is now exploring an early-to-mid colonial period, partly to reduce reliance on firearms. The exact date, location, and relationship to real history remain unresolved.
-- The user favors a mix of established communities and newer settlements. Proposed anthology progression: one story, possibly the first, takes place in a substantial port town with a role comparable to Boston; successive stories move progressively inland into less settled country. No literal Boston setting, first story, fixed route, or story count has been approved. Whether this is one continuous journey or separate assignments remains Open.
+- The user favors a mix of established communities and newer settlements. Proposed anthology progression: one story, possibly the first, takes place in a substantial port town with a role comparable to Boston; successive stories move progressively inland into less settled country. No literal Boston setting, first story, fixed route, or story count has been approved. The confirmed relationship between assignments is recorded below.
+- The user currently favors a linear assignment progression over the earlier idea of freely choosing assignments, potentially connected by an overarching personal mission. This remains Open rather than a finalized sequencing system. Their example of searching for the company's missing first colonial member while taking local jobs to fund or supply the search was explicitly tentative and not especially appealing to them; do not adopt it as the central plot.
 - The user proposes a supernatural mercenary band/company with long historical roots in England. Training or induction might have supernatural effects, potentially including a recognizable appearance. Its origins, practices, authority, reputation, and player role remain Open.
 - Do not assume English origins produce general hostility. The company could receive different responses according to local affiliations, its conduct, and its supernatural practices.
 - Historical research constraint: English colonial status and religious/political divisions need to be distinguished. See the [1629 Massachusetts charter](https://avalon.law.yale.edu/17th_century/mass03.asp) and [Colonial Williamsburg's study of Anglican Virginia](https://research.colonialwilliamsburg.org/DigitalLibrary/view/index.cfm?doc=ResearchReports%5CRR0006.xml).
@@ -33,6 +34,10 @@ The authoritative project direction is in [Creative Vision](Creative-Vision.md).
 
 Decision status and creative authority are defined in [Documentation Workflow](Documentation-Workflow.md#decision-classifications). No Testing Baseline has been selected.
 
+### Confirmed anthology structure
+
+The stories take place as separate assignments spread over time. The user explicitly selected this over one continuous journey. This does not yet fix assignment order, transitions, optional work, or an overarching plot.
+
 ## Open questions
 
 | Subject | Unresolved decisions |
@@ -42,7 +47,7 @@ Decision status and creative authority are defined in [Documentation Workflow](D
 | Material life | Geography, environment, resources, livelihoods, technology, and everyday pressures. |
 | History and society | Historical changes, cultures, governments, religions, economies, hierarchies, institutions, and internal disagreements. |
 | Protagonist | Profession, training, biography, identity, circumstances, and the precise boundaries of player authorship. |
-| Anthology | Story count, length, sequence, structure, recurring connections, and the first story. |
+| Anthology | Story count, length, sequence, transitions, optional work, recurring connections, first story, and whether/how a personal throughline connects them. See the confirmed structure above. |
 | Gameplay | Combat, progression, dialogue implementation, perspective, and exploration mechanics. |
 | Production | Final engine, visual treatment, and implementation scope; current preferences are linked above. |
 
@@ -50,7 +55,7 @@ No unresolved contradictions have been identified. No specific idea has been del
 
 ## Next recommended work
 
-Explore how the proposed port-to-interior progression changes community life, access to institutions, and encounters with folklore. Clarify whether the stories form one journey or separate assignments. Compare colonial-era windows and regional societies against this settlement range, the desired weapon balance, and the company's possible English history. Use historical findings to test proposals rather than silently establishing a date or company canon. Then explore regional folklore alongside ordinary livelihoods, homes, families, and local dangers.
+Explore how the proposed port-to-interior progression changes community life, access to institutions, and encounters with folklore. Evaluate how linear assignment order could preserve agency within stories and allow consequences to carry forward. Explore personal connections between assignments without turning every local conflict into a clue or making mandatory work feel like an arbitrary barrier to the personal mission. Compare colonial-era windows and regional societies against this settlement range, the desired weapon balance, and the company's possible English history. Use historical findings to test proposals rather than silently establishing a date or company canon. Then explore regional folklore alongside ordinary livelihoods, homes, families, and local dangers.
 
 Test promising material through a grounded human situation. Distinguish recorded folklore from proposed adaptations, and do not assume every traditional belief is factually true within the fictional setting. Specific traditions, creatures, historical influences, and adaptations remain Open.
 
