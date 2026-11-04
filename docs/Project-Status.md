@@ -58,7 +58,24 @@ No unresolved contradictions have been identified. No specific idea has been del
 
 ## Historical research reference
 
-The independent [Colonial Atlas](https://colonial-north-america-atlas.surecoati8.chatgpt.site/) is available as research context. Archive v0.26.0, inspected November 4, has selected 1630s–1640 New England material on government, religious disputes, migration/trade and reported supernatural experiences. Its coverage report still identifies substantial regional and everyday-life gaps; no research region is certified complete. Folklore records distinguish period evidence from later documentation and narrative settings. This supports initial worldbuilding with targeted follow-up, not a claim of complete reconstruction or an approved fictional adaptation. The archive's research scope remains independent of the game year.
+The independent [Colonial Atlas](https://colonial-north-america-atlas.surecoati8.chatgpt.site/) is available as research context. Archive v0.28.0, inspected November 4, includes selected 1630s–1640 New England material on government, religious disputes, migration/trade, reported supernatural experiences, commerce, household labor, lodging and overseas-letter arrangements. Its coverage report still identifies substantial regional and everyday-life gaps; no research region is certified complete. Folklore records distinguish period evidence from later documentation and narrative settings. This supports initial worldbuilding with targeted follow-up, not a claim of complete reconstruction or an approved fictional adaptation. The archive's research scope remains independent of the game year.
+
+### Specific research to do: protective practices around 1640
+
+**Status: Open research task.** The user wants the setting grounded in historical evidence as closely as possible before selecting everyday supernatural precautions.
+
+Establish which protective or counter-magical practices are documented in Boston, surrounding New England settlements, and particular connected communities by or around 1640; who used them; what they were intended to do; and how much evidence supports their prevalence.
+
+- Seek household objects, building marks, charms, spoken formulas, prayer or blessings, protective customs, and responses to suspected supernatural harm. Distinguish routine prevention from diagnosis or attempted remedies after harm.
+- Research relevant English precedents separately. English use, migration, a building's construction date, or later American documentation does not alone establish colonial use by 1640.
+- Distinguish practices by community, religious affiliation, household and practitioner. Trace acceptance, condemnation and variation; avoid assuming uniform Puritan or Indigenous beliefs.
+- Prefer dated primary testimony, securely contextualized archaeology and specialist scholarship. Record uncertain object functions, deposition dates, outsider mediation and conflicting interpretations.
+- Assess prevalence explicitly: isolated occurrence, repeated local evidence, broader regional pattern, or insufficient evidence. Do not infer widespread practice from one case or a general belief in witchcraft.
+- Retain later comparisons with their actual dates. Mid-to-late seventeenth-century witch-bottle evidence and the 1692 Salem witch-cake episode cannot automatically supply 1640 practices.
+
+Deliver a concise evidence table with practice, place/community, occurrence and documentation dates, source/passages, purpose, social response, confidence and remaining gaps. Link existing atlas entries and source records where relevant. Historical findings inform later creative choices; no protective custom or supernatural efficacy is approved by this research request.
+
+Research leads, not completed colonial attestations: [Historic England on protective marks](https://historicengland.org.uk/whats-new/features/discovering-witches-marks/what-are-witches-marks/), [concealed objects](https://historicengland.org.uk/whats-new/features/discovering-witches-marks/), [MOLA's witch-bottle research](https://www.mola.org.uk/discoveries/research-projects/witch-bottles-concealed-and-revealed), and [Salem Witch Museum's later counter-magic example](https://salemwitchmuseum.com/faqs/).
 
 ## Next recommended work
 
