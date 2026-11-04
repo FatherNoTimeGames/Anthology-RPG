@@ -2,18 +2,18 @@
 
 [Project index](../README.md) · [Creative vision](Creative-Vision.md) · [Working agreement](Documentation-Workflow.md)
 
-Last meaningful update: November 1, 2026.
+Last meaningful update: November 4, 2026.
 
 ## Current focus
 
-**Active subject: migration, professional acquaintance, and the relationship between an established home order and its newer colonial company.**
+**Active subject: assess 1640 as the preferred setting year and use the historical atlas to develop a grounded local setting.**
 
 The approved creative brief remains the foundation. Initial character-relationship direction is now recorded below; exact setting, full biographies, institutional details, and the first story remain unresolved.
 
 ### Active exploration — Open
 
 - American folklore is a leading source candidate; no region or specific tale has been selected.
-- Earlier setting alternatives were a nineteenth-century American-inspired world, a medieval frontier, and a blend. The user is now exploring an early-to-mid colonial period, partly to reduce reliance on firearms. The exact date, location, and relationship to real history remain unresolved.
+- Earlier setting alternatives were a nineteenth-century American-inspired world, a medieval frontier, and a blend. The early-to-mid colonial period is the current direction, partly to reduce reliance on firearms. On November 4 the user proposed focusing on 1640 as the game year; retain it as the preferred date under discussion (Open), since they said “probably.” Exact location, the full assignment timeframe, and the relationship to real history remain unresolved.
 - The user favors a mix of established communities and newer settlements. Proposed anthology progression: one story, possibly the first, takes place in a substantial port town with a role comparable to Boston; successive stories move progressively inland into less settled country. No literal Boston setting, first story, fixed route, or story count has been approved. The confirmed relationship between assignments is recorded below.
 - The user currently favors a linear assignment progression over the earlier idea of freely choosing assignments; exact sequencing remains unresolved. This remains Open rather than a finalized sequencing system. Their example of searching for the company's missing first colonial member while taking local jobs to fund or supply the search was explicitly tentative and not especially appealing to them; do not adopt it as the central plot.
 - Institutional proposals, the central colleagues' relationship, migration research, and contextual reputation are maintained in [Order, Colonial Company, and Central Relationship](Order-and-Colonial-Company.md).
@@ -56,9 +56,13 @@ The user favors a relationship developing across assignments as the personal con
 
 No unresolved contradictions have been identified. No specific idea has been deliberately Deferred.
 
+## Historical research reference
+
+The independent [Colonial Atlas](https://colonial-north-america-atlas.surecoati8.chatgpt.site/) is available as research context. Archive v0.26.0, inspected November 4, has selected 1630s–1640 New England material on government, religious disputes, migration/trade and reported supernatural experiences. Its coverage report still identifies substantial regional and everyday-life gaps; no research region is certified complete. Folklore records distinguish period evidence from later documentation and narrative settings. This supports initial worldbuilding with targeted follow-up, not a claim of complete reconstruction or an approved fictional adaptation. The archive's research scope remains independent of the game year.
+
 ## Next recommended work
 
-Explore how the proposed port-to-interior progression changes community life, access to institutions, and encounters with folklore. Evaluate how linear assignment order could preserve agency within stories and allow consequences to carry forward. Explore how migration shapes the selected professional acquaintance and what each expects from their reunion. Develop the practical relationship between the home order and the colonial company. Preserve local stories' independent importance and leave the identities and plot unresolved. Compare colonial-era windows and regional societies against this settlement range, the desired weapon balance, and the company's possible English history. Use historical findings to test proposals rather than silently establishing a date or company canon. Then explore regional folklore alongside ordinary livelihoods, homes, families, and local dangers.
+Explore how the proposed port-to-interior progression changes community life, access to institutions, and encounters with folklore. Evaluate how linear assignment order could preserve agency within stories and allow consequences to carry forward. Explore how migration shapes the selected professional acquaintance and what each expects from their reunion. Develop the practical relationship between the home order and the colonial company. Preserve local stories' independent importance and leave the identities and plot unresolved. Use the preferred setting year to choose a specific regional anchor and build a concise local reference for livelihoods, institutions, travel, material culture and period-relevant folklore. Research specific gaps when creative decisions depend on them, alongside the desired weapon balance and the company's possible English history. Use historical findings to test proposals rather than silently establishing a date or company canon. Then explore regional folklore alongside ordinary livelihoods, homes, families, and local dangers.
 
 Test promising material through a grounded human situation. Distinguish recorded folklore from proposed adaptations, and do not assume every traditional belief is factually true within the fictional setting. Specific traditions, creatures, historical influences, and adaptations remain Open.
 
