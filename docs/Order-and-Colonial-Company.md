@@ -2,7 +2,7 @@
 
 [Project index](../README.md) · [Project status](Project-Status.md) · [Creative vision](Creative-Vision.md)
 
-Developed November 1, 2026. Status labels below distinguish the user's selected character direction from institutional proposals and historical references. Names, exact dates, and full biographies are not established.
+Developed November 1, 2026; updated November 4, 2026. Status labels below distinguish the user's selected character direction from institutional proposals and historical references. Names, exact dates, and full biographies are not established.
 
 ## Confirmed relationship direction
 
@@ -13,6 +13,18 @@ The protagonist is newer to the institution. This does not make them an apprenti
 The colleague is a more experienced operator, previously sent to the colonies because of their expertise. The user used “veteran” provisionally to express relative experience; advanced age, a long service history, and formal senior rank are not implied.
 
 The colleague is not the protagonist's designated mentor. They can provide practical advice, local orientation, professional support, and occasional guidance without making the protagonist dependent on instruction or constant accompaniment. The colleague's specialty, temperament, authority, and personal history remain Open.
+
+## Confirmed assignment intake
+
+Approved November 4, 2026.
+
+Most assignments begin with a client who believes they have convincing evidence of supernatural involvement. The company receives both requests to investigate unexplained trouble and requests to resolve an apparently recognized threat; the two overlap.
+
+The company must establish what is happening before deciding what intervention is appropriate. Keep distinct what the client experienced, their explanation, and whom or what they hold responsible. A client can correctly recognize supernatural involvement while misunderstanding its cause, intentions or connection to another person.
+
+Treat clients as people bringing serious concerns and their best explanations. Fear, prior experience, local teachings and relationships can affect their judgments. This default allows straightforward jobs, sincere mistakes, concealed information and unfamiliar phenomena without making every client foolish or deceptive. Company members' own interpretations can also be wrong.
+
+This describes the usual starting point, not a required plot formula or a guarantee of supernatural involvement. It does not establish universal household knowledge, particular beings or effective precautions. Pricing, access, legal authority and specific investigative methods remain Open.
 
 ## Institutional proposal — Open
 

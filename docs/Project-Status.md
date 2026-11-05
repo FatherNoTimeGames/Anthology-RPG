@@ -43,6 +43,10 @@ The stories take place as separate assignments spread over time. The user explic
 
 The user favors a relationship developing across assignments as the personal connection between stories. The selected starting relationship and independent-working expectation are authoritative in [Confirmed relationship direction](Order-and-Colonial-Company.md#confirmed-relationship-direction). Names, full histories, player influence, and a specific overarching plot remain Open. Do not assume an inevitable falling-out, betrayal, or resolution.
 
+### Confirmed assignment intake
+
+Client expectations and the company's investigative responsibility are authoritative in [Confirmed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake). Fees, access, authority and particular methods remain Open.
+
 ## Open questions
 
 | Subject | Unresolved decisions |
@@ -81,7 +85,7 @@ Research leads, not completed colonial attestations: [Historic England on protec
 
 ## Next recommended work
 
-Begin with the [working reference](Boston-Region-1640-Reference.md). Discuss what hiring the proposed company means socially, what help households expect, and how its work relates to local expertise and authority. Offer implications and alternatives without establishing institutions or supernatural rules independently.
+Begin with the [working reference](Boston-Region-1640-Reference.md). Build on the [agreed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake). Discuss who can obtain the company's help, what hiring it means socially, and how its work relates to local expertise and authority. Offer implications and alternatives without establishing institutions or supernatural rules independently.
 
 Develop local conflicts, relationships and the company's practical role using the existing research. Consult additional sources when a specific decision needs evidence; broad historical completeness and minor logistical unknowns are not prerequisites. Keep hypothetical scenes and proposals Open until approved. Preserve the scope and independent purpose of the historical archive.
 
