@@ -2,11 +2,11 @@
 
 [Project index](../README.md) · [Creative vision](Creative-Vision.md) · [Working agreement](Documentation-Workflow.md)
 
-Last meaningful update: November 4, 2026.
+Last meaningful update: November 5, 2026.
 
 ## Current focus
 
-**Active subject: develop the institution's origin and occult methods before settling access, fees and present-day obligations.**
+**Active subject: develop a supernatural branch associated with the selected Order of St John; compare historical/folklore crises that could motivate its formation around the proposed 1540 turning point.**
 
 The approved creative brief remains the foundation. Initial character-relationship direction and the broad institutional origin are recorded below; exact setting, full biographies, remaining institutional details, and the first story remain unresolved.
 
@@ -20,6 +20,8 @@ The approved creative brief remains the foundation. Initial character-relationsh
 - Firearms were already important at early Jamestown; an earlier period changes their operation without automatically making them marginal. See [NPS weapons and armour history](https://www.nps.gov/jame/learn/historyculture/history-of-armour-and-weapons-relevant-to-jamestown.htm).
 
 ## Recently completed
+
+- Recorded the user's Order of St John selection and kept formation around 1540 provisional. Added [institutional-origin research](Institutional-Origin-Research.md), separating reported supernatural events, documented crises, later legends and creative proposals. No supernatural cause or founding event selected.
 
 - Synthesized inspected atlas v0.34.0 material into [Boston Region Around 1640: Working Reference](Boston-Region-1640-Reference.md), with source-entry pointers and separate creative implications.
 
@@ -49,7 +51,7 @@ Client expectations and the company's investigative responsibility are authorita
 
 ### Confirmed institutional origin
 
-The authoritative fictional outline and its unresolved founding details are in [Confirmed institutional origin and development](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development). Develop this history before settling fees or who can obtain help.
+The user selected the historical Order of St John as the institutional basis on November 5. The fictional branch's proposed 1540 formation and every candidate crisis remain Open. The authoritative outline and unresolved founding details are in [Confirmed institutional origin and development](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development). Develop this history before settling fees or who can obtain help.
 
 ## Open questions
 
@@ -64,7 +66,7 @@ The authoritative fictional outline and its unresolved founding details are in [
 | Gameplay | Combat, progression, dialogue implementation, perspective, and exploration mechanics. |
 | Production | Final engine, visual treatment, and implementation scope; current preferences are linked above. |
 
-No unresolved contradictions have been identified. No specific idea has been deliberately Deferred.
+The institutional page now distinguishes the international parent order from the fictional branch, resolving the earlier unnamed English-origin placeholder in light of the user's selection. No founding crisis or supernatural explanation has been approved. No specific idea has been deliberately Deferred.
 
 ## Historical research reference
 
@@ -89,7 +91,7 @@ Research leads, not completed colonial attestations: [Historic England on protec
 
 ## Next recommended work
 
-Begin with the [working reference](Boston-Region-1640-Reference.md). Build on the [agreed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake). First develop the institution's [confirmed origin and development](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development): the original public need, possible sanction, and occult methods that motivate public distancing. Then return to access, payment, local expertise and authority, allowing for the proposed variation among operators. Offer implications and alternatives without establishing institutions or supernatural rules independently.
+Compare the [institutional-origin candidates](Institutional-Origin-Research.md) against the [selected institutional basis](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development) and [agreed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake). Decide what public need and failure of existing responses would justify the supernatural branch, then how the proposed 1540 organization relates to older knowledge and the wider order. Dates, crisis and methods remain Open. Return to access, payment and authority afterward, allowing for the proposed operator variation.
 
 Develop local conflicts, relationships and the company's practical role using the existing research. Consult additional sources when a specific decision needs evidence; broad historical completeness and minor logistical unknowns are not prerequisites. Keep hypothetical scenes and proposals Open until approved. Preserve the scope and independent purpose of the historical archive.
 

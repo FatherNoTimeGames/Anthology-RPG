@@ -2,7 +2,7 @@
 
 [Project index](../README.md) · [Project status](Project-Status.md) · [Creative vision](Creative-Vision.md)
 
-Developed November 1, 2026; updated November 4, 2026. Status labels below distinguish the user's selected character direction from institutional proposals and historical references. Names, exact dates, and full biographies are not established.
+Developed November 1, 2026; updated November 5, 2026. Status labels below distinguish the user's selected character direction from institutional proposals and historical references. Character names, exact fictional dates, and full biographies are not established.
 
 ## Confirmed relationship direction
 
@@ -28,25 +28,25 @@ This describes the usual starting point, not a required plot formula or a guaran
 
 ## Confirmed institutional origin and development
 
-Approved November 4, 2026 as original fictional history, not a claim about an attested historical organization.
+Approved November 4, 2026 as a broad fictional outline; supplemented November 5 with the user's selection of the historical Order of St John as the institutional basis. Its supernatural branch and occult activities are original fiction, not historical findings.
 
-The institution was formed centuries before the game's present to meet a public need. It subsequently evolved so that mutual support among its members became a central part of its organization.
+The older parent institution's public-service roots and the fictional specialists' organizational history must now be distinguished. The selected parent is the Order of St John, with its historical hospital and religious-military background. The prior decision that mutual support becomes central to the specialists' organization remains in force; its development and relationship to the parent order remain Open.
 
-The institution uses occult methods. That use gives government or church authorities a reason to distance themselves publicly. The exact practices, grounds for objection, degree of distancing, and differences among authorities remain unresolved. This does not establish universal hostility, secret patronage, complete illegality or a single government/church position.
+The fictional specialists use occult methods. That use gives government or church authorities a reason to distance themselves publicly. The exact practices, grounds for objection, degree of distancing, and differences among authorities remain unresolved. This does not establish universal hostility, secret patronage, complete illegality or a single government/church position.
 
-Sanction by a ruler or religious figure is an active possibility, not a decided founding event. The original public need, founder, date, sanction and conditions of support remain Open.
+The fictional supernatural branch's original need, founder, date, sanction and conditions of support remain Open. These are distinct from the real parent order's documented religious foundation. The user favors the English suppression of 1540 as a possible occasion for forming the branch and requests a substantial supernatural reason; this is an origin proposal, not an approved event. Whether 1540 marks new knowledge, formal organization of older practice or another change remains unresolved. See [historical and folklore candidates](Institutional-Origin-Research.md).
 
 ## Institutional details — Open
 
-The home institution is an established order with a respected reputation and substantial historical roots in England. Exact geographic reach, name, founding circumstances beyond the confirmed outline above, religious affiliations, legal privileges, and the basis and limits of that respect remain unresolved. English roots are the current reference; do not silently fix “British” as its formal identity.
+The selected parent order is international and has substantial historical English connections; it did not originate in England. The branch's name, geographic reach, religious obligations, legal privileges and reputation remain Open. The earlier preference for respect at home is not evidence of uninterrupted official English standing after 1540. The extent of historical divergence and the branch's relationship to the wider order remain to be developed.
 
 Its colonial operation is comparatively new and not yet locally established. The user proposes that it might operate or be known as a company because colonial circumstances require a different practical organization. “Order” and “company” could describe different forms of the same institution, rather than two unrelated groups.
 
-The reason for the local organizational form, precise limits of members' established independent-working expectation, financing, membership, and contractual duties are not decided. The user has suggested that individual operators' payment arrangements could vary; no fee policy or funding model has been selected. Do not assume a historically attested supernatural organization, a specific kind of chartered corporation, a religious order, or a modern business structure.
+The reason for the local organizational form, precise limits of members' established independent-working expectation, financing, membership, and contractual duties are not decided. The user has suggested that individual operators' payment arrangements could vary; no fee policy or funding model has been selected. Do not assume historically attested occult activity, a specific colonial charter or a modern business structure. The religious parent has been selected; the fictional branch's obligations and colonial legal form remain Open.
 
 The earlier possibility that induction or training produces supernatural effects, perhaps recognizable physical changes, remains Open.
 
-Reputation must be contextual: established respect at home need not guarantee colonial familiarity or universal approval. English origins alone should not produce general hostility; local affiliations, conduct, and supernatural practices can matter. Historical background references include the [1629 Massachusetts charter](https://avalon.law.yale.edu/17th_century/mass03.asp) and [Colonial Williamsburg's study of Anglican Virginia](https://research.colonialwilliamsburg.org/DigitalLibrary/view/index.cfm?doc=ResearchReports%5CRR0006.xml).
+Reputation must be contextual: established respect at home need not guarantee colonial familiarity or universal approval. Connections to England alone should not produce general hostility; local affiliations, conduct, and supernatural practices can matter. Historical background references include the [1629 Massachusetts charter](https://avalon.law.yale.edu/17th_century/mass03.asp) and [Colonial Williamsburg's study of Anglican Virginia](https://research.colonialwilliamsburg.org/DigitalLibrary/view/index.cfm?doc=ResearchReports%5CRR0006.xml).
 
 ## Migration as a relationship influence
 
