@@ -6,9 +6,9 @@ Last meaningful update: November 4, 2026.
 
 ## Current focus
 
-**Active subject: use the existing historical synthesis to develop the fictional community and the company's place within it.**
+**Active subject: develop the institution's origin and occult methods before settling access, fees and present-day obligations.**
 
-The approved creative brief remains the foundation. Initial character-relationship direction is now recorded below; exact setting, full biographies, institutional details, and the first story remain unresolved.
+The approved creative brief remains the foundation. Initial character-relationship direction and the broad institutional origin are recorded below; exact setting, full biographies, remaining institutional details, and the first story remain unresolved.
 
 ### Active exploration — Open
 
@@ -46,6 +46,10 @@ The user favors a relationship developing across assignments as the personal con
 ### Confirmed assignment intake
 
 Client expectations and the company's investigative responsibility are authoritative in [Confirmed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake). Fees, access, authority and particular methods remain Open.
+
+### Confirmed institutional origin
+
+The authoritative fictional outline and its unresolved founding details are in [Confirmed institutional origin and development](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development). Develop this history before settling fees or who can obtain help.
 
 ## Open questions
 
@@ -85,7 +89,7 @@ Research leads, not completed colonial attestations: [Historic England on protec
 
 ## Next recommended work
 
-Begin with the [working reference](Boston-Region-1640-Reference.md). Build on the [agreed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake). Discuss who can obtain the company's help, what hiring it means socially, and how its work relates to local expertise and authority. Offer implications and alternatives without establishing institutions or supernatural rules independently.
+Begin with the [working reference](Boston-Region-1640-Reference.md). Build on the [agreed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake). First develop the institution's [confirmed origin and development](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development): the original public need, possible sanction, and occult methods that motivate public distancing. Then return to access, payment, local expertise and authority, allowing for the proposed variation among operators. Offer implications and alternatives without establishing institutions or supernatural rules independently.
 
 Develop local conflicts, relationships and the company's practical role using the existing research. Consult additional sources when a specific decision needs evidence; broad historical completeness and minor logistical unknowns are not prerequisites. Keep hypothetical scenes and proposals Open until approved. Preserve the scope and independent purpose of the historical archive.
 

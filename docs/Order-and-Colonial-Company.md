@@ -26,13 +26,23 @@ Treat clients as people bringing serious concerns and their best explanations. F
 
 This describes the usual starting point, not a required plot formula or a guarantee of supernatural involvement. It does not establish universal household knowledge, particular beings or effective precautions. Pricing, access, legal authority and specific investigative methods remain Open.
 
-## Institutional proposal — Open
+## Confirmed institutional origin and development
 
-The home institution is an established order with a respected reputation and substantial historical roots in England. Exact geographic reach, name, origins, religious affiliations, legal privileges, and the basis and limits of that respect remain unresolved. English roots are the current reference; do not silently fix “British” as its formal identity.
+Approved November 4, 2026 as original fictional history, not a claim about an attested historical organization.
+
+The institution was formed centuries before the game's present to meet a public need. It subsequently evolved so that mutual support among its members became a central part of its organization.
+
+The institution uses occult methods. That use gives government or church authorities a reason to distance themselves publicly. The exact practices, grounds for objection, degree of distancing, and differences among authorities remain unresolved. This does not establish universal hostility, secret patronage, complete illegality or a single government/church position.
+
+Sanction by a ruler or religious figure is an active possibility, not a decided founding event. The original public need, founder, date, sanction and conditions of support remain Open.
+
+## Institutional details — Open
+
+The home institution is an established order with a respected reputation and substantial historical roots in England. Exact geographic reach, name, founding circumstances beyond the confirmed outline above, religious affiliations, legal privileges, and the basis and limits of that respect remain unresolved. English roots are the current reference; do not silently fix “British” as its formal identity.
 
 Its colonial operation is comparatively new and not yet locally established. The user proposes that it might operate or be known as a company because colonial circumstances require a different practical organization. “Order” and “company” could describe different forms of the same institution, rather than two unrelated groups.
 
-The reason for the local organizational form, degree of autonomy, financing, membership, and contractual duties are not decided. Do not assume a historically attested supernatural organization, a specific kind of chartered corporation, a religious order, or a modern business structure.
+The reason for the local organizational form, precise limits of members' established independent-working expectation, financing, membership, and contractual duties are not decided. The user has suggested that individual operators' payment arrangements could vary; no fee policy or funding model has been selected. Do not assume a historically attested supernatural organization, a specific kind of chartered corporation, a religious order, or a modern business structure.
 
 The earlier possibility that induction or training produces supernatural effects, perhaps recognizable physical changes, remains Open.
 
