@@ -6,7 +6,7 @@ Last meaningful update: November 4, 2026.
 
 ## Current focus
 
-**Active subject: assess 1640 as the preferred setting year and use the historical atlas to develop a grounded local setting.**
+**Active subject: use the existing historical synthesis to develop the fictional community and the company's place within it.**
 
 The approved creative brief remains the foundation. Initial character-relationship direction is now recorded below; exact setting, full biographies, institutional details, and the first story remain unresolved.
 
@@ -20,6 +20,8 @@ The approved creative brief remains the foundation. Initial character-relationsh
 - Firearms were already important at early Jamestown; an earlier period changes their operation without automatically making them marginal. See [NPS weapons and armour history](https://www.nps.gov/jame/learn/historyculture/history-of-armour-and-weapons-relevant-to-jamestown.htm).
 
 ## Recently completed
+
+- Synthesized inspected atlas v0.34.0 material into [Boston Region Around 1640: Working Reference](Boston-Region-1640-Reference.md), with source-entry pointers and separate creative implications.
 
 - Inspected the complete existing repository and its two-commit history at `98423359c77ca10052944b3b79033abe196cb2a1`.
 - Preserved the existing project identity and connection-test record.
@@ -58,11 +60,11 @@ No unresolved contradictions have been identified. No specific idea has been del
 
 ## Historical research reference
 
-The independent [Colonial Atlas](https://colonial-north-america-atlas.surecoati8.chatgpt.site/) is available as research context. Archive v0.28.0, inspected November 4, includes selected 1630s–1640 New England material on government, religious disputes, migration/trade, reported supernatural experiences, commerce, household labor, lodging and overseas-letter arrangements. Its coverage report still identifies substantial regional and everyday-life gaps; no research region is certified complete. Folklore records distinguish period evidence from later documentation and narrative settings. This supports initial worldbuilding with targeted follow-up, not a claim of complete reconstruction or an approved fictional adaptation. The archive's research scope remains independent of the game year.
+The independent [Colonial Atlas](https://colonial-north-america-atlas.surecoati8.chatgpt.site/) supplies historical research. The game's selective synthesis and inspected release are maintained in [Boston Region Around 1640: Working Reference](Boston-Region-1640-Reference.md). This supports creative work without requiring completion of the broader archive. Further research for game development should answer specific questions that materially affect characters, conflicts, institutions or historical portrayal. The independent archive's work and completion target remain unchanged.
 
 ### Specific research to do: protective practices around 1640
 
-**Status: Open research task.** The user wants the setting grounded in historical evidence as closely as possible before selecting everyday supernatural precautions.
+**Status: Open research task, now incorporated in the independent atlas.** Its protective-practices brief and initial evidence matrix were inspected through v0.34.0; broad Boston household use by 1640 remains unestablished. This uncertainty does not block other worldbuilding. The user wants the setting grounded in historical evidence as closely as possible before selecting everyday supernatural precautions.
 
 Establish which protective or counter-magical practices are documented in Boston, surrounding New England settlements, and particular connected communities by or around 1640; who used them; what they were intended to do; and how much evidence supports their prevalence.
 
@@ -79,11 +81,9 @@ Research leads, not completed colonial attestations: [Historic England on protec
 
 ## Next recommended work
 
-Explore how the proposed port-to-interior progression changes community life, access to institutions, and encounters with folklore. Evaluate how linear assignment order could preserve agency within stories and allow consequences to carry forward. Explore how migration shapes the selected professional acquaintance and what each expects from their reunion. Develop the practical relationship between the home order and the colonial company. Preserve local stories' independent importance and leave the identities and plot unresolved. Use the preferred setting year to choose a specific regional anchor and build a concise local reference for livelihoods, institutions, travel, material culture and period-relevant folklore. Research specific gaps when creative decisions depend on them, alongside the desired weapon balance and the company's possible English history. Use historical findings to test proposals rather than silently establishing a date or company canon. Then explore regional folklore alongside ordinary livelihoods, homes, families, and local dangers.
+Begin with the [working reference](Boston-Region-1640-Reference.md). Discuss what hiring the proposed company means socially, what help households expect, and how its work relates to local expertise and authority. Offer implications and alternatives without establishing institutions or supernatural rules independently.
 
-Test promising material through a grounded human situation. Distinguish recorded folklore from proposed adaptations, and do not assume every traditional belief is factually true within the fictional setting. Specific traditions, creatures, historical influences, and adaptations remain Open.
-
-Let the profession emerge from the resulting practical needs and social relationships after the world foundations develop. Do not resume the earlier high-concept premises unless the user chooses to revisit them.
+Develop local conflicts, relationships and the company's practical role using the existing research. Consult additional sources when a specific decision needs evidence; broad historical completeness and minor logistical unknowns are not prerequisites. Keep hypothetical scenes and proposals Open until approved. Preserve the scope and independent purpose of the historical archive.
 
 ## Audit history
 
