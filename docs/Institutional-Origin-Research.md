@@ -12,6 +12,16 @@ This was a bounded comparative search across English, French, Spanish/Navarrese,
 
 A historical record can establish that an extraordinary explanation was reported without establishing its supernatural truth. A real disaster and a legend later attached to it are separate evidence. Making a supernatural cause real in the game would be a creative decision.
 
+## Chronology and clarified research purpose
+
+The hospital community in Jerusalem predates its papal recognition of February 15, 1113. The Order of Malta's [institutional history](https://www.orderofmalta.int/history/11-century-to-the-present-day/) places the community in the second half of the eleventh century; [its British association](https://www.orderofmalta.org.uk/history/1048-to-present/) uses the conventional date around 1048. Gerard led the community into its recognized form; 1113 is not the opening date of a personal clinic.
+
+The late-twelfth-century revenant narratives postdate recognition. Hellequin's reported 1091 encounter predates it; connecting the Jerusalem community to that Norman account would require invented people and transmission, not merely an earlier founding date.
+
+The user clarified that this research should also identify a possible source for an induction or transformation that produces a fearsome appearance and physical abilities moderately beyond an ordinary human's. No mechanism, appearance, exact abilities or ritual is selected. Distinguish three questions: why the specialists cooperate, where their transformative knowledge comes from, and when the branch forms.
+
+“Revenant” here means a returning dead person, particularly a bodily return. “Revenant outbreaks” was loose shorthand for separate reported hauntings and associated sickness, not a documented continent-wide epidemic of animated corpses.
+
 ## Candidate 1: Corporeal revenants — English and Scottish border accounts, late twelfth century
 
 **Evidence:** William of Newburgh's *Historia rerum Anglicarum*, book V, chapters 22–24, reports returning corpses at Buckingham, Berwick, Melrose and Anantis. His Berwick account connects a roaming corpse with a subsequent epidemic despite its destruction. The stories juxtapose ecclesiastical remedies and physical intervention. These are medieval narratives of claimed events, not independently verified outbreaks of walking dead.
@@ -25,6 +35,8 @@ A historical record can establish that an extraordinary explanation was reported
 **Evidence:** Accounts of burning illness, gangrene and sometimes death became associated with saints, relics and healing institutions. A severe northern French wave is reported for 1128–1129. Ergot poisoning supplies a real medical explanation for important outbreaks; not every historical use of a saint's disease-name is a secure retrospective diagnosis.
 
 **Sources consulted:** François Dolbeau, [edition/study of a Geneviève miracle account](https://www.persee.fr/doc/jds_0021-8103_1983_num_1_1_1464), opening discussion and indexed continuation; [Saint-Antoine museum's institutional history](https://musees.isere.fr/page/musee-de-saint-antoine-labbaye-le-site-historique), text; [Wellcome's scientific image description](https://wellcomecollection.org/works/zshwp85w), symptoms and Antonite treatment context. The full critical edition was not examined.
+
+**Chronological clarification:** This was a recurring affliction, not one event with a single start/end date. Charles Vulliez's [study of early miracle narratives](https://www.persee.fr/doc/bsnaf_0081-1181_2018_num_2015_1_12463), opening page, identifies reports in 945 (Paris region) and 994 (Aquitaine). The 1128–1129 wave is a later example. Jacques Battin's [medical-history study](https://www.academie-medecine.fr/le-feu-saint-antoine-ou-ergotisme-gangreneux-et-son-iconographie-medievale/) discusses continuing treatment and imagery, including Gersdorff's 1517 Strasbourg surgical manual. These examples span the tenth through early sixteenth centuries without establishing uninterrupted outbreaks or identical diagnoses.
 
 **Creative potential — Open:** Strongest hospital connection: diagnosis, feeding and protecting sufferers can require specialist work. The real Order of St Anthony already served this need; do not attribute its actual work to St John. Any genuinely supernatural affliction alongside ordinary poisoning would be original fiction, with the distinction allowing investigation and treatment beyond violence.
 
@@ -54,6 +66,16 @@ A historical record can establish that an extraordinary explanation was reported
 
 **Creative potential — Open:** Strongest recent Iberian model for why supernatural investigation must distinguish evidence from blame. It could motivate a specialist ethic of finding causes while protecting accused people. Avoid making historical victims' alleged conspiracies retrospectively true or assuming all Spanish authorities behaved alike.
 
+**Follow-up: Navarre and proposed institutional cooperation — Open**
+
+The user favors exploring Navarre as a catalyst involving more than one organization. “Inquisitorial intervention” specifically meant the Spanish Inquisition's Calahorra tribunal and central leadership, not a generic religious investigator. Its restraint of the 1525–1526 campaign is relevant; cruelty or willingness to torture does not establish willingness to adopt condemned magic.
+
+An [official Navarre exhibition chronology](https://www.navarra.es/NR/rdonlyres/B5B1AF79-4E3E-4358-8E7A-0E09E173282A/464559/lacazadebrujasenelespacioyeneltiemposinmapa.pdf), substantive indexed text (direct PDF opening timed out), separately identifies a Salazar-valley case beginning in 1539 and a Pamplona auto-da-fé on March 16, 1540. This was a public sentencing ceremony, not evidence that everyone appearing was executed. Its precise relationship to earlier cases needs further research; do not collapse all episodes into one continuous prosecution.
+
+The user's desired fictional premise allows genuine supernatural harm in rare cases alongside false accusations and personal grievances. This does not establish any named historical defendant's guilt or a single motive behind every accusation. Fictional institutional cooperation, covert experiments, and authorization remain unresolved.
+
+Manuel José Pedraza García's [study of Zaragoza proceedings in 1509 and 1511](https://revistas.ucm.es/index.php/RGID/article/view/RGID0707120063A), abstract inspected, documents inquisitorial cases involving necromancy and prohibited grimoires. It supports the existence of investigated ritual-magic practices and books, not an inquisitorial program to use them, effective supernatural powers, or a Hospitaller connection.
+
 ## Candidate 6: Hellequin's troop — Normandy, encounter dated 1091
 
 **Evidence:** Orderic Vitalis reports the priest Walchelin's encounter with a procession of suffering dead, including armed riders. Specialist interpretation connects the account to local warfare, social wrongdoing and a broader spectral-retinue tradition. This is a reported vision recorded later, not independent proof of an army or a mass-casualty event.
@@ -61,6 +83,8 @@ A historical record can establish that an extraordinary explanation was reported
 **Sources consulted:** [University-linked Norman history source guide](https://mondes-normands.caen.fr/france/ensavoirplus/sources/ordericvital.htm), author and 1091 episode; [Andrew Joynes's translated-source chapter summary](https://www.cambridge.org/core/books/abs/medieval-ghost-stories/ecclesiastical-history-of-orderic-vitalis/C3BAF2333B5E0F1125E7ACB51F0C3FB1), narrative and historical setting. Full chapter/critical edition unread; speculative pagan derivations are not adopted.
 
 **Creative potential — Open:** Strongest large supernatural spectacle, but weaker as evidence of a lethal regional outbreak. A procession of recognizable dead could connect warfare and unfinished obligations with danger. Do not homogenize European Wild Hunt traditions or make every apparition a hostile monster.
+
+**User proposal — Open:** A rogue Hospitaller might investigate necromancy for healing. No individual, date, historical connection or discovery is established. A later practitioner studying an older account avoids requiring membership in the formally recognized order in 1091. Medical rescue leaving a survivor permanently altered is an exploratory possibility, not an approved induction mechanism.
 
 ## Screened limits and alternatives
 
@@ -75,4 +99,4 @@ Revenant accounts offer the best dangerous-folklore basis; holy-fire traditions 
 
 Separate the date of the fictional branch's organization from the age of its knowledge. Older problems could have accumulated experience; a crisis near 1540 could explain formal cooperation when resources and authority were disrupted. No such earlier network, crisis, continuity or mechanism has been established.
 
-A useful next decision is what failure the new branch addresses: dangerous dead, afflicted living people or predatory threats. These need not exhaust its eventual work.
+The user's latest preference is to explore Navarre as a possible organizational catalyst and a rogue Hospitaller's healing-oriented necromancy as a possible source of transformative knowledge. These remain separate Open proposals. Further development should test how a medical or protective intervention could produce the intended alteration, and why it becomes a repeatable induction, before selecting an event or creating a founder.

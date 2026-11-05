@@ -6,7 +6,7 @@ Last meaningful update: November 5, 2026.
 
 ## Current focus
 
-**Active subject: develop a supernatural branch associated with the selected Order of St John; compare historical/folklore crises that could motivate its formation around the proposed 1540 turning point.**
+**Active subject: explore Navarre as a possible catalyst for the St John supernatural branch and identify a potential source for its members' transformation. Formation around 1540, institutional cooperation and healing-oriented necromancy remain Open.**
 
 The approved creative brief remains the foundation. Initial character-relationship direction and the broad institutional origin are recorded below; exact setting, full biographies, remaining institutional details, and the first story remain unresolved.
 
@@ -20,6 +20,8 @@ The approved creative brief remains the foundation. Initial character-relationsh
 - Firearms were already important at early Jamestown; an earlier period changes their operation without automatically making them marginal. See [NPS weapons and armour history](https://www.nps.gov/jame/learn/historyculture/history-of-armour-and-weapons-relevant-to-jamestown.htm).
 
 ## Recently completed
+
+- Clarified hospital-community origins versus 1113 recognition, the recurring holy-fire chronology, and the meaning of revenant accounts. Recorded the user's transformation research objective and current Navarre/rogue-healer proposals, with no founding event or induction mechanism selected. Added a separately dated 1539–1540 Navarre research lead and distinguished inquisitorial restraint from fictional use of forbidden magic.
 
 - Recorded the user's Order of St John selection and kept formation around 1540 provisional. Added [institutional-origin research](Institutional-Origin-Research.md), separating reported supernatural events, documented crises, later legends and creative proposals. No supernatural cause or founding event selected.
 
@@ -91,7 +93,7 @@ Research leads, not completed colonial attestations: [Historic England on protec
 
 ## Next recommended work
 
-Compare the [institutional-origin candidates](Institutional-Origin-Research.md) against the [selected institutional basis](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development) and [agreed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake). Decide what public need and failure of existing responses would justify the supernatural branch, then how the proposed 1540 organization relates to older knowledge and the wider order. Dates, crisis and methods remain Open. Return to access, payment and authority afterward, allowing for the proposed operator variation.
+Compare the [institutional-origin candidates](Institutional-Origin-Research.md) against the [selected institutional basis](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development) and [agreed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake). Develop the user's Navarre and rogue-healer proposals: distinguish the catalyst for cooperation from the source of transformative knowledge, and test whether a medical or protective intervention could become an induction. Establish what public need it serves and how the proposed 1540 organization relates to older knowledge and the wider order. Dates, crisis and methods remain Open. Return to access, payment and authority afterward, allowing for the proposed operator variation.
 
 Develop local conflicts, relationships and the company's practical role using the existing research. Consult additional sources when a specific decision needs evidence; broad historical completeness and minor logistical unknowns are not prerequisites. Keep hypothetical scenes and proposals Open until approved. Preserve the scope and independent purpose of the historical archive.
 
