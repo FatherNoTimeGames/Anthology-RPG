@@ -138,4 +138,4 @@ Revenant accounts offer the best dangerous-folklore basis; holy-fire traditions 
 
 Separate the date of the fictional branch's organization from the age of its knowledge. Older problems could have accumulated experience; a crisis near 1540 could explain formal cooperation when resources and authority were disrupted. No such earlier network, crisis, continuity or mechanism has been established.
 
-Trace how the experiments might lead to the [operator milestones](Order-and-Colonial-Company.md#revenant-operators--open). The 1539 incident, the results of the post-1540 rescue and combat experiments, and the first dependable lasting revival remain open. Navarre and the English suppression can still serve separate functions in the branch's origin.
+Trace how the experiments might lead to the [operator milestones and early revivals](Order-and-Colonial-Company.md#revenant-operators--open). The 1539 incident, the results of the post-1540 rescue and combat experiments, and the exact date and condition of the first lasting revival remain open. Navarre and the English suppression can still serve separate functions in the branch's origin.

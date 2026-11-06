@@ -46,11 +46,31 @@ The reason for the local organizational form, precise limits of members' establi
 
 ## Revenant operators — Open
 
-The current design uses **revenant** for a person brought back from recent death who can think, make decisions and act independently. The Order's research goal is reliable, lasting revival by about **1620**. By **1640**, revived people can reliably handle assignments on their own and make up most field operators. The stability of a revival and readiness for independent assignments are separate milestones. What training or changes in the procedure account for the interval remains open.
+A **revenant** is a person brought back from recent death who can think, decide and act independently. By about **1620**, lasting revival and the operator practice are established enough for a later recruit to enter an existing profession. By **1640**, revenants make up most field operators and can reliably handle assignments alone. The protagonist can be among the earlier operators in the colonies and still have an explainable condition, established training and precedents to draw on. The date of the first colonial deployment remains open.
 
-Candidates are people facing imminent death. While still alive, they verbally accept an offer of revival in exchange for service. Each already has a life, relationships and a reason to take the deal. The agreement's duration, terms, recruitment criteria, enforcement, and consequences of refusing an assignment or leaving remain open.
+### The bargain and public identity
 
-The procedure needs to leave operators recognizably human in ordinary encounters. Visible aftereffects, physical benefits, and costs remain open. The earlier goal of modest physical advantages can inform design. The choice of which abilities to develop should account for the risks and social work of field assignments.
+Candidates agree verbally before death. The sect is explicit that the return entails lifelong devotion and employment in its service and separation from the life they leave behind. In most cases that may include taking a new identity. The sect keeps its specific existence and its revival practices secret, while operators openly display the imagery of the parent Order of St John. The sect ensures the candidate's family and former associates understand that the person has died. The public explanation of the operators' work and how they assume new identities remain open.
+
+The working premise is that most candidates who accept do so because they fear what awaits them after death. Recruiters may press that fear by offering a chance to redeem their souls through lifelong service. This is a religious claim and a recruitment practice in the fiction. The truth of the afterlife and what individual recruiters or revenants believe remain open.
+
+### Roles and training
+
+Revenants can choose a role early in induction. The working interpretation is a common commitment to serve for life, with further duties for those who take the field. Most revenants choose to become operators. Whether everyone receives basic field training or can be reassigned remains open.
+
+A small, secret sect needs places to train and live, along with food and the people who provide it, trainers, alchemists, blacksmiths, tailors, and local representatives who maintain relationships with surrounding communities. Living members can fill many of those roles. Secrecy constrains recruitment and the size of these establishments. Their number, sites and staffing remain open.
+
+### First revivals and long-term effects
+
+The first successfully revived person is still in their second life in the period under discussion. About forty years by 1640 suggests a possible first success around 1600. Several years probably pass before the second success, then the practice expands as the sect gains confidence. Exact dates and the number of early cases remain open.
+
+Possible physical decay or mental decline in the first revenant is under discussion. Some members could suspect that revival confers immortality, or study how to achieve it. The first case had an early version of the procedure and a longer second life than the others. The sect cannot yet tell whether any decline is specific to that early process or develops over time in other revenants. Immortality, the state of the first revenant, and the limits of later improvements remain open.
+
+Slight pallor or grayness is an appearance direction under consideration. Revenants should remain recognizably human in ordinary encounters. The exact signs, physical advantages and individual costs of revival remain open.
+
+### Duty toward missing revenants
+
+Field operators swear a specific duty to pursue and dispatch fellow revenants who desert or disappear. The sect regards leaving to see a former family as desertion, even if the revenant only intends to watch them from a distance. The rule protects the separation promised to the sect and the family's belief that the person is dead. Who decides that the vow applies, the evidence required, and whether anyone can grant an exception remain open.
 
 See the [research timeline](Institutional-Origin-Research.md#proposed-hospitaller-research-timeline--open) for earlier experiments and historical leads. A proposed program to direct dead bodies in rescue or combat precedes the autonomous operator direction. Its results and relationship to lasting revival remain open.
 

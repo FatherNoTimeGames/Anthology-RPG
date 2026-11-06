@@ -6,7 +6,7 @@ Last meaningful update: November 5, 2026.
 
 ## Current focus
 
-**Active subject: develop revenant operators, including the goals of lasting revival by 1620 and reliable independent service by 1640. The deathbed agreement, physical effects, and path from earlier research are the next design questions.**
+**Active subject: develop the revenant sect's lifelong service bargain, secret organization and operator vows. Early revivals, the first revenant's possible decline and the limits of the procedure remain open.**
 
 The approved creative brief remains the foundation. Initial character-relationship direction and the broad institutional origin are recorded below; exact setting, full biographies, remaining institutional details, and the first story remain unresolved.
 
@@ -20,6 +20,8 @@ The approved creative brief remains the foundation. Initial character-relationsh
 - Firearms were already important at early Jamestown; an earlier period changes their operation without automatically making them marginal. See [NPS weapons and armour history](https://www.nps.gov/jame/learn/historyculture/history-of-armour-and-weapons-relevant-to-jamestown.htm).
 
 ## Recently completed
+
+- Expanded the [revenant operator direction](Order-and-Colonial-Company.md#revenant-operators--open) with established practice by 1620, public St John imagery, lifelong service, early role choice, and the vow to pursue and dispatch revenants who desert or disappear. Recorded the first revenant's continued second life and the open questions around decline and immortality.
 
 - Recorded the user's [revenant operator direction](Order-and-Colonial-Company.md#revenant-operators--open), including autonomous revived people, a verbal exchange of revival for service, and an appearance suited to ordinary human interaction. The rite and terms remain open.
 
@@ -99,7 +101,7 @@ Research leads, not completed colonial attestations: [Historic England on protec
 
 ## Next recommended work
 
-Develop the [revenant operators](Order-and-Colonial-Company.md#revenant-operators--open) by defining what candidates agree to, how revival affects them, and what makes an operator ready to work alone. Connect those choices to the [earlier experiments](Institutional-Origin-Research.md#returning-dead-and-corpse-experiments-15401600) as needed. The outcomes of those experiments and the role of the 1539 Navarre case remain open.
+Develop the [revenant operators](Order-and-Colonial-Company.md#revenant-operators--open) by deciding how the sect judges a disappearance, what role choice and training look like, and what benefits and costs revival leaves behind. Use the first revenant's case to distinguish established effects from conjectures about the length of a second life. The outcomes of the earlier corpse experiments and the role of the 1539 Navarre case remain open.
 
 Develop local conflicts, relationships and the company's practical role using the existing research. Consult additional sources when a specific decision needs evidence; broad historical completeness and minor logistical unknowns are not prerequisites. Keep hypothetical scenes and proposals Open until approved. Preserve the scope and independent purpose of the historical archive.
 
