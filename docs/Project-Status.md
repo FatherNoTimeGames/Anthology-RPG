@@ -6,7 +6,7 @@ Last meaningful update: November 5, 2026.
 
 ## Current focus
 
-**Active subject: develop the proposed Hospitaller healing research timeline from the twelfth century to 1540 and explore how brief revival could intersect with the Navarre case. Formation, induction, and institutional involvement remain Open.**
+**Active subject: develop the proposed post-1540 necromancy research and its intended rescue and military applications. The earlier Navarre connection, the techniques and their outcomes remain Open.**
 
 The approved creative brief remains the foundation. Initial character-relationship direction and the broad institutional origin are recorded below; exact setting, full biographies, remaining institutional details, and the first story remain unresolved.
 
@@ -20,6 +20,8 @@ The approved creative brief remains the foundation. Initial character-relationsh
 - Firearms were already important at early Jamestown; an earlier period changes their operation without automatically making them marginal. See [NPS weapons and armour history](https://www.nps.gov/jame/learn/historyculture/history-of-armour-and-weapons-relevant-to-jamestown.htm).
 
 ## Recently completed
+
+- Recorded quiet continuation of necromancy after 1540 and the user's rescue and shock-troop objectives as a working direction. Researched dated returning-dead accounts and related allegations in Europe and in a Roanoke-era colonial report.
 
 - Recorded the proposed multigenerational Hospitaller research timeline and examined the archival study of the 1539–1540 Ochagavía proceedings. The documented investigation, sentences and local St John presence are separate from the fictional revival and induction proposals.
 
@@ -95,7 +97,7 @@ Research leads, not completed colonial attestations: [Historic England on protec
 
 ## Next recommended work
 
-Use the [proposed Hospitaller research timeline](Institutional-Origin-Research.md#proposed-hospitaller-research-timeline--open) to test how a fictional revival might intersect the 1539 Navarre investigation and how a healing practice could become an induction. Keep the [selected institutional basis](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development) and the [agreed assignment intake](Order-and-Colonial-Company.md#confirmed-assignment-intake) in view. Define the procedure and the branch's relationship to the English suppression before settling access, payment and authority.
+Use the [proposed Hospitaller research timeline](Institutional-Origin-Research.md#proposed-hospitaller-research-timeline--open) and the [1540–1600 accounts](Institutional-Origin-Research.md#returning-dead-and-corpse-experiments-15401600) to explore how the researchers try to direct a recently dead body in rescue work or combat. Decide how this relates to the 1539 revival and the eventual induction. The actual results and the cases that might intersect with the fictional research remain Open.
 
 Develop local conflicts, relationships and the company's practical role using the existing research. Consult additional sources when a specific decision needs evidence; broad historical completeness and minor logistical unknowns are not prerequisites. Keep hypothetical scenes and proposals Open until approved. Preserve the scope and independent purpose of the historical archive.
 
