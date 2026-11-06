@@ -2,7 +2,7 @@
 
 [Project index](../README.md) · [Project status](Project-Status.md) · [Creative vision](Creative-Vision.md)
 
-Developed November 1, 2026; updated November 5, 2026. Status labels below distinguish the user's selected character direction from institutional proposals and historical references. Character names, exact fictional dates, and full biographies are not established.
+Developed November 1, 2026; updated November 6, 2026. Status labels below distinguish the user's selected character direction from institutional proposals and historical references. Character names, exact fictional dates, and full biographies are not established.
 
 ## Confirmed relationship direction
 
@@ -56,7 +56,7 @@ The working premise is that most candidates who accept do so because they fear w
 
 ### Roles and training
 
-Revenants can choose a role early in induction. The working interpretation is a common commitment to serve for life, with further duties for those who take the field. Most revenants choose to become operators. Whether everyone receives basic field training or can be reassigned remains open.
+Revenants can choose a role early in induction. All revenants commit to serve for life. Those who take the field swear additional operator vows. Most revenants choose to become operators. Whether everyone receives basic field training or can be reassigned remains open.
 
 A small, secret sect needs places to train and live, along with food and the people who provide it, trainers, alchemists, blacksmiths, tailors, and local representatives who maintain relationships with surrounding communities. Living members can fill many of those roles. Secrecy constrains recruitment and the size of these establishments. Their number, sites and staffing remain open.
 
@@ -70,7 +70,11 @@ Slight pallor or grayness is an appearance direction under consideration. Revena
 
 ### Duty toward missing revenants
 
-Field operators swear a specific duty to pursue and dispatch fellow revenants who desert or disappear. The sect regards leaving to see a former family as desertion, even if the revenant only intends to watch them from a distance. The rule protects the separation promised to the sect and the family's belief that the person is dead. Who decides that the vow applies, the evidence required, and whether anyone can grant an exception remain open.
+Field operators swear a specific duty to pursue and dispatch fellow revenants who desert or disappear. The sect regards leaving to see a former family as desertion, even if the revenant only intends to watch them from a distance. The rule protects the separation promised to the sect and the family's belief that the person is dead.
+
+**Confirmed warrant authority and threshold, November 6, 2026.** Leadership decides whether to issue a death warrant, and field operators carry out the resulting duty. A disappearance warrants investigation. A rumor alone is grounds for a death warrant if it alleges a breach such as breaking the required separation from one's former life. These are distinct thresholds.
+
+The authority rests with the head of the sect or the responsible superior. Whether the sect has its own Grand Master or answers ultimately to the Grand Master of the Order remains open. The exact title, delegation, how a warrant is passed to field operators, and what happens if an operator finds evidence against it remain open.
 
 See the [research timeline](Institutional-Origin-Research.md#proposed-hospitaller-research-timeline--open) for earlier experiments and historical leads. A proposed program to direct dead bodies in rescue or combat precedes the autonomous operator direction. Its results and relationship to lasting revival remain open.
 

@@ -2,11 +2,11 @@
 
 [Project index](../README.md) · [Creative vision](Creative-Vision.md) · [Working agreement](Documentation-Workflow.md)
 
-Last meaningful update: November 5, 2026.
+Last meaningful update: November 6, 2026.
 
 ## Current focus
 
-**Active subject: develop the revenant sect's lifelong service bargain, secret organization and operator vows. Early revivals, the first revenant's possible decline and the limits of the procedure remain open.**
+**Active subject: develop the revenant sect's command structure and how its strict warrants affect operators in the field. The leadership title, the first revenant's condition, and the physical costs of the rite remain open.**
 
 The approved creative brief remains the foundation. Initial character-relationship direction and the broad institutional origin are recorded below; exact setting, full biographies, remaining institutional details, and the first story remain unresolved.
 
@@ -20,6 +20,8 @@ The approved creative brief remains the foundation. Initial character-relationsh
 - Firearms were already important at early Jamestown; an earlier period changes their operation without automatically making them marginal. See [NPS weapons and armour history](https://www.nps.gov/jame/learn/historyculture/history-of-armour-and-weapons-relevant-to-jamestown.htm).
 
 ## Recently completed
+
+- Clarified who can issue a death warrant and the different thresholds for an unexplained disappearance and a rumored breach of the old-life vow. The common lifelong vow and additional field duties are recorded in the [revenant operator design](Order-and-Colonial-Company.md#revenant-operators--open).
 
 - Expanded the [revenant operator direction](Order-and-Colonial-Company.md#revenant-operators--open) with established practice by 1620, public St John imagery, lifelong service, early role choice, and the vow to pursue and dispatch revenants who desert or disappear. Recorded the first revenant's continued second life and the open questions around decline and immortality.
 
@@ -63,6 +65,10 @@ Client expectations and the company's investigative responsibility are authorita
 
 The user selected the historical Order of St John as the institutional basis on November 5. The fictional branch's proposed 1540 formation and every candidate crisis remain Open. The authoritative outline and unresolved founding details are in [Confirmed institutional origin and development](Order-and-Colonial-Company.md#confirmed-institutional-origin-and-development). Develop this history before settling fees or who can obtain help.
 
+### Confirmed revenant discipline
+
+The [duty toward missing revenants](Order-and-Colonial-Company.md#duty-toward-missing-revenants) records the leadership's authority and thresholds for investigation and death warrants. The sect's precise place in the Order's chain of command remains Open.
+
 ## Open questions
 
 | Subject | Unresolved decisions |
@@ -101,7 +107,7 @@ Research leads, not completed colonial attestations: [Historic England on protec
 
 ## Next recommended work
 
-Develop the [revenant operators](Order-and-Colonial-Company.md#revenant-operators--open) by deciding how the sect judges a disappearance, what role choice and training look like, and what benefits and costs revival leaves behind. Use the first revenant's case to distinguish established effects from conjectures about the length of a second life. The outcomes of the earlier corpse experiments and the role of the 1539 Navarre case remain open.
+Develop the [revenant operators](Order-and-Colonial-Company.md#revenant-operators--open) by deciding how warrants are communicated, what operators can do when the evidence contradicts a warrant, and what role choice and training look like. Use the first revenant's case to distinguish known effects from conjectures about a second life's length. The outcomes of the earlier corpse experiments and the role of the 1539 Navarre case remain open.
 
 Develop local conflicts, relationships and the company's practical role using the existing research. Consult additional sources when a specific decision needs evidence; broad historical completeness and minor logistical unknowns are not prerequisites. Keep hypothetical scenes and proposals Open until approved. Preserve the scope and independent purpose of the historical archive.
 
