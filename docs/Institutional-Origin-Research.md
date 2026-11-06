@@ -70,7 +70,11 @@ The user clarified that this research should also identify a possible source for
 
 The user favors exploring Navarre as a catalyst involving more than one organization. “Inquisitorial intervention” specifically meant the Spanish Inquisition's Calahorra tribunal and central leadership, not a generic religious investigator. Its restraint of the 1525–1526 campaign is relevant; cruelty or willingness to torture does not establish willingness to adopt condemned magic.
 
-An [official Navarre exhibition chronology](https://www.navarra.es/NR/rdonlyres/B5B1AF79-4E3E-4358-8E7A-0E09E173282A/464559/lacazadebrujasenelespacioyeneltiemposinmapa.pdf), substantive indexed text (direct PDF opening timed out), separately identifies a Salazar-valley case beginning in 1539 and a Pamplona auto-da-fé on March 16, 1540. This was a public sentencing ceremony, not evidence that everyone appearing was executed. Its precise relationship to earlier cases needs further research; do not collapse all episodes into one continuous prosecution.
+The [Navarre exhibition chronology](https://www.navarra.es/NR/rdonlyres/B5B1AF79-4E3E-4358-8E7A-0E09E173282A/464559/lacazadebrujasenelespacioyeneltiemposinmapa.pdf) identifies the 1539 Salazar-valley investigation and the March 16, 1540 auto-da-fé in Pamplona. Rocío de la Nogal Fernández's [archival study](https://revista-hsj-historia.unavarra.es/es/article/view/3183), pp. 375–383, provides the sequence and record references. By February 1539, royal commissioner Lope Camús was investigating around Ochagavía. Inquisitor Martín Pérez de Oliván arrived in Pamplona in December. The March ceremony's report lists 69 cases, 49 for witchcraft, including 30 children aged 10–14. It records one execution on a separate charge of Judaizing. Lope de Esparza's civil case continued after the ceremony. The author cites the confessions at AHN, Inquisición, L. 831, fols. 13–15 and the ceremony report at L. 833, fols. 12–14. Consulted the study's account and quoted passages. Original files remain uninspected.
+
+The study describes allegations of harmful powders, renunciation of the faith and, in one confession, exhumation. These record accusations and testimony. Brief revival and any connection to Hospitaller activity belong to the fictional proposal below. The 1539–1540 proceedings were a separate episode from the 1525–1526 campaign, though the earlier proceedings appear in later testimony and the inquisitors drew on the 1526 Granada instructions.
+
+**Historical foothold:** St John had a [Grand Priory of Navarre](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/1698651). A [study of the Crucifijo church and hospital at Puente la Reina](https://revistas.navarra.es/index.php/PV/article/download/2114/1229) dates the transfer of the hospital to St John's Navarre priory to 1443. This gives the fictional research network a possible regional connection. Membership, patient care and specific premises for the experiments remain Open.
 
 The user's desired fictional premise allows genuine supernatural harm in rare cases alongside false accusations and personal grievances. This does not establish any named historical defendant's guilt or a single motive behind every accusation. Fictional institutional cooperation, covert experiments, and authorization remain unresolved.
 
@@ -93,10 +97,26 @@ Manuel José Pedraza García's [study of Zaragoza proceedings in 1509 and 1511](
 - Famous later examples such as the eighteenth-century Beast of Gévaudan cannot motivate a branch founded in 1540 without deliberately altering chronology.
 - The Black Death offers real scale but is a less distinctive fictional foundation; do not turn historical scapegoating of minority communities into validated supernatural causation.
 
+## Proposed Hospitaller research timeline — Open
+
+This is the user's proposed chronology for developing the fictional specialists. The historical anchors are distinguished from the invented discoveries.
+
+| Period | Historical anchor | Fictional development under discussion |
+| --- | --- | --- |
+| 1128–1129 | A severe northern French holy-fire episode is discussed under Candidate 2. | A French Hospitaller who witnesses the affliction may start investigating unusual treatments. |
+| Late 1100s onward | William of Newburgh records returning-corpse accounts. | Later Hospitallers study these and related accounts for clues about preserving or restoring bodily function. The continuity and form of their research remain open. |
+| Around 1515 and the early 1500s | Zaragoza is the city in Aragón where the 1509 and 1511 grimoire proceedings took place. The 1517 Strasbourg manual attests to ongoing treatment of holy-fire sufferers. | A member acquires a grimoire or related copy, learns to animate a dead limb, and tests and refines the technique in the course of treating holy-fire patients. The precise text, cases, and what the technique can repair remain open. |
+| 1539 | The Salazar-valley investigation begins. | The researchers can briefly revive someone recently deceased. Whether the person can speak, what the revival actually restores, and how a case reaches the authorities remain open. |
+| 1540 | Pamplona's auto-da-fé takes place on March 16. The English branch of St John is suppressed the same year. | A revival could become entangled with the Navarre inquiry. The English suppression remains a possible reason for the researchers to form a distinct group. Neither a formal Inquisition partnership nor a direct historical link between the two events has been selected. |
+
+**Possible placement for the fictional incident:** A brief revival during the 1539 inquiry leaves eyewitnesses with conflicting explanations. Their accounts could reach the authorities before the December questioning. This makes the event relevant to the proceedings without turning the March ceremony itself into a public demonstration. Keep the actual people accused distinct from the invented practitioners and patients. A variant in which the revival triggers the investigation would require placing it before the inquiry began and deliberately changing the documented cause.
+
+The transformation used for induction remains a separate development. A technique that sustains physical function through injury might later be adapted for living volunteers. Its exact effect, risk, visible marks, and relationship to the ability to revive the dead are unresolved.
+
 ## Recommendation and next decision — Open
 
 Revenant accounts offer the best dangerous-folklore basis; holy-fire traditions offer the best connection to a hospital order; Paris's wolves offer the strongest concrete predatory crisis. Dancing outbreaks are especially close to the proposed date but have weaker secure mortality evidence.
 
 Separate the date of the fictional branch's organization from the age of its knowledge. Older problems could have accumulated experience; a crisis near 1540 could explain formal cooperation when resources and authority were disrupted. No such earlier network, crisis, continuity or mechanism has been established.
 
-The user's latest preference is to explore Navarre as a possible organizational catalyst and a rogue Hospitaller's healing-oriented necromancy as a possible source of transformative knowledge. These remain separate Open proposals. Further development should test how a medical or protective intervention could produce the intended alteration, and why it becomes a repeatable induction, before selecting an event or creating a founder.
+Develop the proposed research timeline by testing where a fictional revival intersects the 1539 investigation, what the treatment restores, and how it could lead to a repeatable induction. Navarre, the English suppression and the healing research can serve different functions in the origin. The personnel, discoveries, and organizational outcomes remain Open.
