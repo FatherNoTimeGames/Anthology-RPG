@@ -18,9 +18,9 @@ The hospital community in Jerusalem predates its papal recognition of February 1
 
 The late-twelfth-century revenant narratives postdate recognition. Hellequin's reported 1091 encounter predates it; connecting the Jerusalem community to that Norman account would require invented people and transmission, not merely an earlier founding date.
 
-The user clarified that this research should also identify a possible source for an induction or transformation that produces a fearsome appearance and physical abilities moderately beyond an ordinary human's. No mechanism, appearance, exact abilities or ritual is selected. Distinguish three questions: why the specialists cooperate, where their transformative knowledge comes from, and when the branch forms.
+The initial research objective was to explain unusual appearance and modest physical advantages. The current design focuses on [autonomous revived operators with a largely human appearance](Order-and-Colonial-Company.md#revenant-operators--open). The rite and its effects remain open. The historical leads below concern why the researchers began, what they investigated, and how their work might have developed.
 
-“Revenant” here means a returning dead person, particularly a bodily return. “Revenant outbreaks” was loose shorthand for separate reported hauntings and associated sickness, not a documented continent-wide epidemic of animated corpses.
+In the historical accounts below, “revenant” describes a returning dead person, particularly a bodily return. The game's specific use of the term is defined in the [operator design](Order-and-Colonial-Company.md#revenant-operators--open). The accounts report separate local incidents, sometimes associated with illness.
 
 ## Candidate 1: Corporeal revenants — English and Scottish border accounts, late twelfth century
 
@@ -111,7 +111,7 @@ This is the user's proposed chronology for developing the fictional specialists.
 
 **Possible placement for the fictional incident:** A brief revival during the 1539 inquiry leaves eyewitnesses with conflicting explanations. Their accounts could reach the authorities before the December questioning. This makes the event relevant to the proceedings without turning the March ceremony itself into a public demonstration. Keep the actual people accused distinct from the invented practitioners and patients. A variant in which the revival triggers the investigation would require placing it before the inquiry began and deliberately changing the documented cause.
 
-The transformation used for induction remains a separate development. A technique that sustains physical function through injury might later be adapted for living volunteers. Its exact effect, risk, visible marks, and relationship to the ability to revive the dead are unresolved.
+The subsequent [operator design](Order-and-Colonial-Company.md#revenant-operators--open) now places the bargain before death and the transformation at revival. The earlier living-volunteer treatment remains an exploratory antecedent. Whether limb animation and short revival contributed to lasting revival, and how the process became dependable in the field, remain open.
 
 ## Returning dead and corpse experiments, 1540–1600
 
@@ -138,4 +138,4 @@ Revenant accounts offer the best dangerous-folklore basis; holy-fire traditions 
 
 Separate the date of the fictional branch's organization from the age of its knowledge. Older problems could have accumulated experience; a crisis near 1540 could explain formal cooperation when resources and authority were disrupted. No such earlier network, crisis, continuity or mechanism has been established.
 
-Develop the proposed research timeline by testing where a fictional revival intersects the 1539 investigation, what the treatment restores, and how it could lead to a repeatable induction. Navarre, the English suppression and the healing research can serve different functions in the origin. The personnel, discoveries, and organizational outcomes remain Open.
+Trace how the experiments might lead to the [operator milestones](Order-and-Colonial-Company.md#revenant-operators--open). The 1539 incident, the results of the post-1540 rescue and combat experiments, and the first dependable lasting revival remain open. Navarre and the English suppression can still serve separate functions in the branch's origin.

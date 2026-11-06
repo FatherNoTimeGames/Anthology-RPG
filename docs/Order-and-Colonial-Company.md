@@ -44,7 +44,15 @@ Its colonial operation is comparatively new and not yet locally established. The
 
 The reason for the local organizational form, precise limits of members' established independent-working expectation, financing, membership, and contractual duties are not decided. The user has suggested that individual operators' payment arrangements could vary; no fee policy or funding model has been selected. Do not assume historically attested occult activity, a specific colonial charter or a modern business structure. The religious parent has been selected; the fictional branch's obligations and colonial legal form remain Open.
 
-The user clarified the current research objective: find a possible basis for an induction or transformation that produces a fearsome appearance and physical abilities moderately beyond an ordinary human's. The source, rite, visible changes, risks, limits and exact abilities remain Open. Navarre as an organizational catalyst and a rogue Hospitaller investigating healing through necromancy are current proposals, not established origins; see [the research clarification](Institutional-Origin-Research.md#chronology-and-clarified-research-purpose).
+## Revenant operators — Open
+
+The current design uses **revenant** for a person brought back from recent death who can think, make decisions and act independently. The Order's research goal is reliable, lasting revival by about **1620**. By **1640**, revived people can reliably handle assignments on their own and make up most field operators. The stability of a revival and readiness for independent assignments are separate milestones. What training or changes in the procedure account for the interval remains open.
+
+Candidates are people facing imminent death. While still alive, they verbally accept an offer of revival in exchange for service. Each already has a life, relationships and a reason to take the deal. The agreement's duration, terms, recruitment criteria, enforcement, and consequences of refusing an assignment or leaving remain open.
+
+The procedure needs to leave operators recognizably human in ordinary encounters. Visible aftereffects, physical benefits, and costs remain open. The earlier goal of modest physical advantages can inform design. The choice of which abilities to develop should account for the risks and social work of field assignments.
+
+See the [research timeline](Institutional-Origin-Research.md#proposed-hospitaller-research-timeline--open) for earlier experiments and historical leads. A proposed program to direct dead bodies in rescue or combat precedes the autonomous operator direction. Its results and relationship to lasting revival remain open.
 
 Reputation must be contextual: established respect at home need not guarantee colonial familiarity or universal approval. Connections to England alone should not produce general hostility; local affiliations, conduct, and supernatural practices can matter. Historical background references include the [1629 Massachusetts charter](https://avalon.law.yale.edu/17th_century/mass03.asp) and [Colonial Williamsburg's study of Anglican Virginia](https://research.colonialwilliamsburg.org/DigitalLibrary/view/index.cfm?doc=ResearchReports%5CRR0006.xml).
 

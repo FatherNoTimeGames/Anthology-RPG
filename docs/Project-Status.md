@@ -6,7 +6,7 @@ Last meaningful update: November 5, 2026.
 
 ## Current focus
 
-**Active subject: develop the proposed post-1540 necromancy research and its intended rescue and military applications. The earlier Navarre connection, the techniques and their outcomes remain Open.**
+**Active subject: develop revenant operators, including the goals of lasting revival by 1620 and reliable independent service by 1640. The deathbed agreement, physical effects, and path from earlier research are the next design questions.**
 
 The approved creative brief remains the foundation. Initial character-relationship direction and the broad institutional origin are recorded below; exact setting, full biographies, remaining institutional details, and the first story remain unresolved.
 
@@ -20,6 +20,8 @@ The approved creative brief remains the foundation. Initial character-relationsh
 - Firearms were already important at early Jamestown; an earlier period changes their operation without automatically making them marginal. See [NPS weapons and armour history](https://www.nps.gov/jame/learn/historyculture/history-of-armour-and-weapons-relevant-to-jamestown.htm).
 
 ## Recently completed
+
+- Recorded the user's [revenant operator direction](Order-and-Colonial-Company.md#revenant-operators--open), including autonomous revived people, a verbal exchange of revival for service, and an appearance suited to ordinary human interaction. The rite and terms remain open.
 
 - Recorded quiet continuation of necromancy after 1540 and the user's rescue and shock-troop objectives as a working direction. Researched dated returning-dead accounts and related allegations in Europe and in a Roanoke-era colonial report.
 
@@ -97,7 +99,7 @@ Research leads, not completed colonial attestations: [Historic England on protec
 
 ## Next recommended work
 
-Use the [proposed Hospitaller research timeline](Institutional-Origin-Research.md#proposed-hospitaller-research-timeline--open) and the [1540–1600 accounts](Institutional-Origin-Research.md#returning-dead-and-corpse-experiments-15401600) to explore how the researchers try to direct a recently dead body in rescue work or combat. Decide how this relates to the 1539 revival and the eventual induction. The actual results and the cases that might intersect with the fictional research remain Open.
+Develop the [revenant operators](Order-and-Colonial-Company.md#revenant-operators--open) by defining what candidates agree to, how revival affects them, and what makes an operator ready to work alone. Connect those choices to the [earlier experiments](Institutional-Origin-Research.md#returning-dead-and-corpse-experiments-15401600) as needed. The outcomes of those experiments and the role of the 1539 Navarre case remain open.
 
 Develop local conflicts, relationships and the company's practical role using the existing research. Consult additional sources when a specific decision needs evidence; broad historical completeness and minor logistical unknowns are not prerequisites. Keep hypothetical scenes and proposals Open until approved. Preserve the scope and independent purpose of the historical archive.
 
